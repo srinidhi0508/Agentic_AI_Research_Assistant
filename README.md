@@ -35,10 +35,6 @@ This Streamlit web app uses **Groq’s blazing-fast LLaMA 3 models** to help you
 All in less than 30 seconds ⚡
 
 ---
-## 🌍 Try It Out Live
-
-👉 [Click here to use the Research Report Generator on Streamlit 🚀](https://research-report-generator.streamlit.app/)
----
 ##  Author
 Created by Srinidhi Vodnala
 ---
