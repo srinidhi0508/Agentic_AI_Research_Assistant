@@ -1,4 +1,4 @@
-# 🧠 Research Report Generator (Groq-Powered)
+# 🧠 Research Report Generator (Agentic AI, Groq-powered)
 
 Generate beautifully structured, AI-powered research reports in seconds — directly from your browser!
 
