@@ -40,8 +40,8 @@ Created by Srinidhi Vodnala
 ---
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/your-username/research-report-generator.git
-cd research-report-generator
+git clone https://github.com/srinidhi0508/Agentic_AI_Research_Assistant.gi
+cd Agentic_AI_Research_Assistant
 pip install -r requirements.txt
 
 ---
